@@ -1,0 +1,327 @@
+Series,Family,Type,Test,Result,Details
+All,,,Load twice,PASS,14 families and 131 types; no duplicated segments
+PVC,BMP_PVC_Elbow90,21 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_Elbow90,27 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_Elbow90,34 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_Elbow90,42 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_Elbow90,49 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_Elbow90,60 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_Elbow90,90 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_Elbow90,114 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_Elbow90,168 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_Elbow45,21 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_Elbow45,27 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_Elbow45,34 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_Elbow45,42 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_Elbow45,49 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_Elbow45,60 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_Elbow45,90 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_Elbow45,114 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_Elbow45,168 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_Tee,21 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_Tee,27 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_Tee,34 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_Tee,42 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_Tee,49 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_Tee,60 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_Tee,90 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_Tee,114 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_Tee,168 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_Socket,21 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_Socket,27 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_Socket,34 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_Socket,42 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_Socket,49 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_Socket,60 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_Socket,90 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_Socket,114 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_Socket,168 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_Cap,21 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_Cap,27 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_Cap,34 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_Cap,42 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_Cap,49 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_Cap,60 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_Cap,90 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_Cap,114 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_Cap,168 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_Reducer,27x21 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_Reducer,34x21 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_Reducer,34x27 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_Reducer,42x27 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_Reducer,42x34 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_Reducer,49x34 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_Reducer,49x42 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_Reducer,60x42 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_Reducer,60x49 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_Reducer,90x60 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_Reducer,114x60 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_Reducer,114x90 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_Reducer,168x114 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_ReducingTee,27x21 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_ReducingTee,34x21 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_ReducingTee,34x27 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_ReducingTee,42x27 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_ReducingTee,42x34 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_ReducingTee,49x34 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_ReducingTee,49x42 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_ReducingTee,60x34 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_ReducingTee,60x42 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_ReducingTee,60x49 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_ReducingTee,90x60 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_ReducingTee,114x60 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_ReducingTee,114x90 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_ReducingTee,168x114 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR10,BMP_PPR_Elbow90,20 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR10,BMP_PPR_Elbow90,25 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR10,BMP_PPR_Elbow90,32 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR10,BMP_PPR_Elbow90,40 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR10,BMP_PPR_Elbow90,50 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR10,BMP_PPR_Elbow90,63 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR10,BMP_PPR_Elbow45,20 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR10,BMP_PPR_Elbow45,25 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR10,BMP_PPR_Elbow45,32 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR10,BMP_PPR_Elbow45,40 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR10,BMP_PPR_Elbow45,50 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR10,BMP_PPR_Elbow45,63 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR10,BMP_PPR_Tee,20 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR10,BMP_PPR_Tee,25 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR10,BMP_PPR_Tee,32 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR10,BMP_PPR_Tee,40 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR10,BMP_PPR_Tee,50 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR10,BMP_PPR_Tee,63 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR10,BMP_PPR_Socket,20 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR10,BMP_PPR_Socket,25 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR10,BMP_PPR_Socket,32 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR10,BMP_PPR_Socket,40 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR10,BMP_PPR_Socket,50 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR10,BMP_PPR_Socket,63 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR10,BMP_PPR_Cap,20 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR10,BMP_PPR_Cap,25 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR10,BMP_PPR_Cap,32 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR10,BMP_PPR_Cap,40 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR10,BMP_PPR_Cap,50 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR10,BMP_PPR_Cap,63 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR10,BMP_PPR_Reducer,25x20 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR10,BMP_PPR_Reducer,32x20 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR10,BMP_PPR_Reducer,32x25 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR10,BMP_PPR_Reducer,40x20 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR10,BMP_PPR_Reducer,40x25 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR10,BMP_PPR_Reducer,40x32 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR10,BMP_PPR_Reducer,50x25 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR10,BMP_PPR_Reducer,50x32 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR10,BMP_PPR_Reducer,50x40 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR10,BMP_PPR_Reducer,63x20 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR10,BMP_PPR_Reducer,63x25 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR10,BMP_PPR_Reducer,63x32 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR10,BMP_PPR_Reducer,63x40 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR10,BMP_PPR_Reducer,63x50 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR10,BMP_PPR_ReducingTee,25x20 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR10,BMP_PPR_ReducingTee,32x20 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR10,BMP_PPR_ReducingTee,32x25 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR10,BMP_PPR_ReducingTee,40x20 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR10,BMP_PPR_ReducingTee,40x25 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR10,BMP_PPR_ReducingTee,40x32 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR10,BMP_PPR_ReducingTee,50x20 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR10,BMP_PPR_ReducingTee,50x25 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR10,BMP_PPR_ReducingTee,50x32 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR10,BMP_PPR_ReducingTee,50x40 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR10,BMP_PPR_ReducingTee,63x20 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR10,BMP_PPR_ReducingTee,63x25 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR10,BMP_PPR_ReducingTee,63x32 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR10,BMP_PPR_ReducingTee,63x40 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR10,BMP_PPR_ReducingTee,63x50 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR20,BMP_PPR_Elbow90,20 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR20,BMP_PPR_Elbow90,25 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR20,BMP_PPR_Elbow90,32 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR20,BMP_PPR_Elbow90,40 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR20,BMP_PPR_Elbow90,50 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR20,BMP_PPR_Elbow90,63 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR20,BMP_PPR_Elbow45,20 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR20,BMP_PPR_Elbow45,25 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR20,BMP_PPR_Elbow45,32 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR20,BMP_PPR_Elbow45,40 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR20,BMP_PPR_Elbow45,50 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR20,BMP_PPR_Elbow45,63 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR20,BMP_PPR_Tee,20 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR20,BMP_PPR_Tee,25 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR20,BMP_PPR_Tee,32 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR20,BMP_PPR_Tee,40 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR20,BMP_PPR_Tee,50 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR20,BMP_PPR_Tee,63 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR20,BMP_PPR_Socket,20 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR20,BMP_PPR_Socket,25 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR20,BMP_PPR_Socket,32 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR20,BMP_PPR_Socket,40 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR20,BMP_PPR_Socket,50 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR20,BMP_PPR_Socket,63 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR20,BMP_PPR_Cap,20 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR20,BMP_PPR_Cap,25 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR20,BMP_PPR_Cap,32 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR20,BMP_PPR_Cap,40 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR20,BMP_PPR_Cap,50 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR20,BMP_PPR_Cap,63 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR20,BMP_PPR_Reducer,25x20 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR20,BMP_PPR_Reducer,32x20 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR20,BMP_PPR_Reducer,32x25 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR20,BMP_PPR_Reducer,40x20 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR20,BMP_PPR_Reducer,40x25 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR20,BMP_PPR_Reducer,40x32 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR20,BMP_PPR_Reducer,50x25 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR20,BMP_PPR_Reducer,50x32 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR20,BMP_PPR_Reducer,50x40 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR20,BMP_PPR_Reducer,63x20 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR20,BMP_PPR_Reducer,63x25 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR20,BMP_PPR_Reducer,63x32 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR20,BMP_PPR_Reducer,63x40 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR20,BMP_PPR_Reducer,63x50 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR20,BMP_PPR_ReducingTee,25x20 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR20,BMP_PPR_ReducingTee,32x20 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR20,BMP_PPR_ReducingTee,32x25 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR20,BMP_PPR_ReducingTee,40x20 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR20,BMP_PPR_ReducingTee,40x25 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR20,BMP_PPR_ReducingTee,40x32 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR20,BMP_PPR_ReducingTee,50x20 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR20,BMP_PPR_ReducingTee,50x25 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR20,BMP_PPR_ReducingTee,50x32 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR20,BMP_PPR_ReducingTee,50x40 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR20,BMP_PPR_ReducingTee,63x20 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR20,BMP_PPR_ReducingTee,63x25 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR20,BMP_PPR_ReducingTee,63x32 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR20,BMP_PPR_ReducingTee,63x40 mm,Connection,PASS,Correct family type and coincident connected ports
+PPR20,BMP_PPR_ReducingTee,63x50 mm,Connection,PASS,Correct family type and coincident connected ports
+PVC,BMP_PVC_Elbow90,21 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_Elbow90,27 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_Elbow90,34 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_Elbow90,42 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_Elbow90,49 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_Elbow90,60 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_Elbow90,90 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_Elbow90,114 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_Elbow90,168 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_Elbow45,21 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_Elbow45,27 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_Elbow45,34 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_Elbow45,42 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_Elbow45,49 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_Elbow45,60 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_Elbow45,90 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_Elbow45,114 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_Elbow45,168 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_Tee,21 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_Tee,27 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_Tee,34 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_Tee,42 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_Tee,49 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_Tee,60 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_Tee,90 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_Tee,114 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_Tee,168 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_Socket,21 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_Socket,27 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_Socket,34 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_Socket,42 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_Socket,49 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_Socket,60 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_Socket,90 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_Socket,114 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_Socket,168 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_Cap,21 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_Cap,27 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_Cap,34 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_Cap,42 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_Cap,49 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_Cap,60 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_Cap,90 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_Cap,114 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_Cap,168 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_Reducer,27x21 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_Reducer,34x21 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_Reducer,34x27 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_Reducer,42x27 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_Reducer,42x34 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_Reducer,49x34 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_Reducer,49x42 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_Reducer,60x42 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_Reducer,60x49 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_Reducer,90x60 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_Reducer,114x60 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_Reducer,114x90 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_Reducer,168x114 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_ReducingTee,27x21 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_ReducingTee,34x21 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_ReducingTee,34x27 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_ReducingTee,42x27 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_ReducingTee,42x34 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_ReducingTee,49x34 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_ReducingTee,49x42 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_ReducingTee,60x34 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_ReducingTee,60x42 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_ReducingTee,60x49 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_ReducingTee,90x60 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_ReducingTee,114x60 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_ReducingTee,114x90 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,BMP_PVC_ReducingTee,168x114 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PPR,BMP_PPR_Elbow90,20 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PPR,BMP_PPR_Elbow90,25 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PPR,BMP_PPR_Elbow90,32 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PPR,BMP_PPR_Elbow90,40 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PPR,BMP_PPR_Elbow90,50 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PPR,BMP_PPR_Elbow90,63 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PPR,BMP_PPR_Elbow45,20 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PPR,BMP_PPR_Elbow45,25 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PPR,BMP_PPR_Elbow45,32 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PPR,BMP_PPR_Elbow45,40 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PPR,BMP_PPR_Elbow45,50 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PPR,BMP_PPR_Elbow45,63 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PPR,BMP_PPR_Tee,20 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PPR,BMP_PPR_Tee,25 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PPR,BMP_PPR_Tee,32 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PPR,BMP_PPR_Tee,40 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PPR,BMP_PPR_Tee,50 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PPR,BMP_PPR_Tee,63 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PPR,BMP_PPR_Socket,20 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PPR,BMP_PPR_Socket,25 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PPR,BMP_PPR_Socket,32 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PPR,BMP_PPR_Socket,40 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PPR,BMP_PPR_Socket,50 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PPR,BMP_PPR_Socket,63 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PPR,BMP_PPR_Cap,20 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PPR,BMP_PPR_Cap,25 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PPR,BMP_PPR_Cap,32 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PPR,BMP_PPR_Cap,40 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PPR,BMP_PPR_Cap,50 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PPR,BMP_PPR_Cap,63 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PPR,BMP_PPR_Reducer,25x20 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PPR,BMP_PPR_Reducer,32x20 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PPR,BMP_PPR_Reducer,32x25 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PPR,BMP_PPR_Reducer,40x20 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PPR,BMP_PPR_Reducer,40x25 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PPR,BMP_PPR_Reducer,40x32 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PPR,BMP_PPR_Reducer,50x25 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PPR,BMP_PPR_Reducer,50x32 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PPR,BMP_PPR_Reducer,50x40 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PPR,BMP_PPR_Reducer,63x20 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PPR,BMP_PPR_Reducer,63x25 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PPR,BMP_PPR_Reducer,63x32 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PPR,BMP_PPR_Reducer,63x40 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PPR,BMP_PPR_Reducer,63x50 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PPR,BMP_PPR_ReducingTee,25x20 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PPR,BMP_PPR_ReducingTee,32x20 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PPR,BMP_PPR_ReducingTee,32x25 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PPR,BMP_PPR_ReducingTee,40x20 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PPR,BMP_PPR_ReducingTee,40x25 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PPR,BMP_PPR_ReducingTee,40x32 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PPR,BMP_PPR_ReducingTee,50x20 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PPR,BMP_PPR_ReducingTee,50x25 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PPR,BMP_PPR_ReducingTee,50x32 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PPR,BMP_PPR_ReducingTee,50x40 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PPR,BMP_PPR_ReducingTee,63x20 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PPR,BMP_PPR_ReducingTee,63x25 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PPR,BMP_PPR_ReducingTee,63x32 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PPR,BMP_PPR_ReducingTee,63x40 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PPR,BMP_PPR_ReducingTee,63x50 mm,Change Type in project,PASS,Geometry and connector positions and sizes follow new type
+PVC,Elbow,34 mm,Vertical reversed 45,PASS,Connected ports after commit
+PVC,Elbow,34 mm,Vertical reversed 90,PASS,Connected ports after commit
+PPR,Elbow,32 mm,Vertical reversed 45,PASS,Connected ports after commit
+PPR,Elbow,32 mm,Vertical reversed 90,PASS,Connected ports after commit

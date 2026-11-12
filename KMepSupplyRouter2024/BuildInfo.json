@@ -1,0 +1,14 @@
+{
+  "Build": "2026-10-28 Final2",
+  "Revit": "2024",
+  "Units": "mm",
+  "Assembly": "KMep.SupplyRouter2024.Final2.dll",
+  "SHA256": "1BCA3CA254AB9D420D8A347D5DFD8C94CF0C011045DFA421FA0BF0CF83399C0C",
+  "RevitCases": 124,
+  "RevitPass": 124,
+  "RevitFail": 0,
+  "CatalogueCases": 86,
+  "GeometryAndSafetyCases": 38,
+  "PlannerAssertions": 1022,
+  "ActualNeighbourRouteMm": 2566.2836654889
+}

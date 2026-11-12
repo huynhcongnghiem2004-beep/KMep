@@ -1,0 +1,12 @@
+{
+  "Time": "2026-10-28T16:20:41.8462002+07:00",
+  "Document": "C:\\Users\\kienx\\Documents\\ChatGPT\\ADDIN REVIT\\KMepSupplyRouter2024\\KMep_Supply_Demo.rvt",
+  "Test": "KMep ribbon: PVC 34 main to BonCau cold connector 20",
+  "Result": "NOT_CONNECTED_MISSING_TRANSITION",
+  "Reason": "PVC catalogue has no 20 mm pipe; requires a compatible transition at fixture inlet",
+  "PipeCount": 8,
+  "PipesUnchanged": true,
+  "FixturesUnchanged": true,
+  "DocumentModified": false,
+  "ToiletColdConnected": false
+}

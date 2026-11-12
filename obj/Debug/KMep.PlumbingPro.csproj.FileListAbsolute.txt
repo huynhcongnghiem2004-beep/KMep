@@ -1,0 +1,6 @@
+D:\SDK_HD\KMep_PlumbingPro\bin\Debug\KMep.PlumbingPro.dll
+D:\SDK_HD\KMep_PlumbingPro\bin\Debug\KMep.PlumbingPro.pdb
+D:\SDK_HD\KMep_PlumbingPro\obj\Debug\KMep.PlumbingPro.csproj.AssemblyReference.cache
+D:\SDK_HD\KMep_PlumbingPro\obj\Debug\KMep.PlumbingPro.csproj.CoreCompileInputs.cache
+D:\SDK_HD\KMep_PlumbingPro\obj\Debug\KMep.PlumbingPro.dll
+D:\SDK_HD\KMep_PlumbingPro\obj\Debug\KMep.PlumbingPro.pdb

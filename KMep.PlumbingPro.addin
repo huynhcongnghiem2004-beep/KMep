@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>KMep PlumbingPro</Name>
+    <Assembly>C:\KMep\KMep.PlumbingPro.dll</Assembly>
+    <AddInId>182B8A1E-9045-45D9-B47C-3E619067A2A4</AddInId>
+    <FullClassName>KMep.PlumbingPro.App</FullClassName>
+    <VendorId>KMEP</VendorId>
+    <VendorDescription>KMep PlumbingPro - Revit 2024</VendorDescription>
+  </AddIn>
+</RevitAddIns>

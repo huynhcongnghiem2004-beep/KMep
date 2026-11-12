@@ -1,0 +1,160 @@
+Family,Type,Check,Result,Details
+BMP_PVC_Elbow90,21 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_Elbow90,27 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_Elbow90,34 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_Elbow90,42 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_Elbow90,49 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_Elbow90,60 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_Elbow90,90 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_Elbow90,114 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_Elbow90,168 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_Elbow90,21 mm,Editable lengths +8 percent,PASS,Native geometry and connectors flexed
+BMP_PVC_Elbow90,22.05 mm,Editable diameters +5 percent,PASS,Native geometry and connectors flexed
+BMP_PVC_Elbow45,21 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_Elbow45,27 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_Elbow45,34 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_Elbow45,42 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_Elbow45,49 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_Elbow45,60 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_Elbow45,90 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_Elbow45,114 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_Elbow45,168 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_Elbow45,21 mm,Editable lengths +8 percent,PASS,Native geometry and connectors flexed
+BMP_PVC_Elbow45,22.05 mm,Editable diameters +5 percent,PASS,Native geometry and connectors flexed
+BMP_PVC_Tee,21 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_Tee,27 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_Tee,34 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_Tee,42 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_Tee,49 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_Tee,60 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_Tee,90 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_Tee,114 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_Tee,168 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_Tee,21 mm,Editable lengths +8 percent,PASS,Native geometry and connectors flexed
+BMP_PVC_Tee,22.05 mm,Editable diameters +5 percent,PASS,Native geometry and connectors flexed
+BMP_PVC_Socket,21 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_Socket,27 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_Socket,34 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_Socket,42 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_Socket,49 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_Socket,60 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_Socket,90 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_Socket,114 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_Socket,168 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_Socket,21 mm,Editable lengths +8 percent,PASS,Native geometry and connectors flexed
+BMP_PVC_Socket,22.05 mm,Editable diameters +5 percent,PASS,Native geometry and connectors flexed
+BMP_PVC_Cap,21 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_Cap,27 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_Cap,34 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_Cap,42 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_Cap,49 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_Cap,60 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_Cap,90 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_Cap,114 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_Cap,168 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_Cap,21 mm,Editable lengths +8 percent,PASS,Native geometry and connectors flexed
+BMP_PVC_Cap,22.05 mm,Editable diameters +5 percent,PASS,Native geometry and connectors flexed
+BMP_PVC_Reducer,27x21 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_Reducer,34x21 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_Reducer,34x27 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_Reducer,42x27 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_Reducer,42x34 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_Reducer,49x34 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_Reducer,49x42 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_Reducer,60x42 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_Reducer,60x49 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_Reducer,90x60 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_Reducer,114x60 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_Reducer,114x90 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_Reducer,168x114 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_Reducer,27x21 mm,Editable lengths +8 percent,PASS,Native geometry and connectors flexed
+BMP_PVC_Reducer,28.35x22.05 mm,Editable diameters +5 percent,PASS,Native geometry and connectors flexed
+BMP_PVC_ReducingTee,27x21 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_ReducingTee,34x21 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_ReducingTee,34x27 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_ReducingTee,42x27 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_ReducingTee,42x34 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_ReducingTee,49x34 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_ReducingTee,49x42 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_ReducingTee,60x34 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_ReducingTee,60x42 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_ReducingTee,60x49 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_ReducingTee,90x60 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_ReducingTee,114x60 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_ReducingTee,114x90 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_ReducingTee,168x114 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PVC_ReducingTee,27x21 mm,Editable lengths +8 percent,PASS,Native geometry and connectors flexed
+BMP_PVC_ReducingTee,28.35x22.05 mm,Editable diameters +5 percent,PASS,Native geometry and connectors flexed
+BMP_PPR_Elbow90,20 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PPR_Elbow90,25 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PPR_Elbow90,32 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PPR_Elbow90,40 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PPR_Elbow90,50 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PPR_Elbow90,63 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PPR_Elbow90,20 mm,Editable lengths +8 percent,PASS,Native geometry and connectors flexed
+BMP_PPR_Elbow90,21 mm,Editable diameters +5 percent,PASS,Native geometry and connectors flexed
+BMP_PPR_Elbow45,20 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PPR_Elbow45,25 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PPR_Elbow45,32 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PPR_Elbow45,40 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PPR_Elbow45,50 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PPR_Elbow45,63 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PPR_Elbow45,20 mm,Editable lengths +8 percent,PASS,Native geometry and connectors flexed
+BMP_PPR_Elbow45,21 mm,Editable diameters +5 percent,PASS,Native geometry and connectors flexed
+BMP_PPR_Tee,20 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PPR_Tee,25 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PPR_Tee,32 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PPR_Tee,40 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PPR_Tee,50 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PPR_Tee,63 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PPR_Tee,20 mm,Editable lengths +8 percent,PASS,Native geometry and connectors flexed
+BMP_PPR_Tee,21 mm,Editable diameters +5 percent,PASS,Native geometry and connectors flexed
+BMP_PPR_Socket,20 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PPR_Socket,25 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PPR_Socket,32 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PPR_Socket,40 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PPR_Socket,50 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PPR_Socket,63 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PPR_Socket,20 mm,Editable lengths +8 percent,PASS,Native geometry and connectors flexed
+BMP_PPR_Socket,21 mm,Editable diameters +5 percent,PASS,Native geometry and connectors flexed
+BMP_PPR_Cap,20 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PPR_Cap,25 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PPR_Cap,32 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PPR_Cap,40 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PPR_Cap,50 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PPR_Cap,63 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PPR_Cap,20 mm,Editable lengths +8 percent,PASS,Native geometry and connectors flexed
+BMP_PPR_Cap,21 mm,Editable diameters +5 percent,PASS,Native geometry and connectors flexed
+BMP_PPR_Reducer,25x20 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PPR_Reducer,32x20 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PPR_Reducer,32x25 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PPR_Reducer,40x20 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PPR_Reducer,40x25 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PPR_Reducer,40x32 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PPR_Reducer,50x25 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PPR_Reducer,50x32 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PPR_Reducer,50x40 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PPR_Reducer,63x20 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PPR_Reducer,63x25 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PPR_Reducer,63x32 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PPR_Reducer,63x40 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PPR_Reducer,63x50 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PPR_Reducer,25x20 mm,Editable lengths +8 percent,PASS,Native geometry and connectors flexed
+BMP_PPR_Reducer,26.25x21 mm,Editable diameters +5 percent,PASS,Native geometry and connectors flexed
+BMP_PPR_ReducingTee,25x20 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PPR_ReducingTee,32x20 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PPR_ReducingTee,32x25 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PPR_ReducingTee,40x20 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PPR_ReducingTee,40x25 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PPR_ReducingTee,40x32 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PPR_ReducingTee,50x20 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PPR_ReducingTee,50x25 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PPR_ReducingTee,50x32 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PPR_ReducingTee,50x40 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PPR_ReducingTee,63x20 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PPR_ReducingTee,63x25 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PPR_ReducingTee,63x32 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PPR_ReducingTee,63x40 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PPR_ReducingTee,63x50 mm,Catalogue type,PASS,Native geometry and connectors flexed
+BMP_PPR_ReducingTee,25x20 mm,Editable lengths +8 percent,PASS,Native geometry and connectors flexed
+BMP_PPR_ReducingTee,26.25x21 mm,Editable diameters +5 percent,PASS,Native geometry and connectors flexed

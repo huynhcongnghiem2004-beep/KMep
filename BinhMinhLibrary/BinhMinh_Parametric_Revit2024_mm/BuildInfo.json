@@ -1,0 +1,13 @@
+{
+  "Version": "2.0-parametric",
+  "Revit": "2024",
+  "Units": "mm",
+  "FamilyFiles": 14,
+  "FamilyTypes": 131,
+  "FamilyFlexChecks": 159,
+  "ProjectChecks": 326,
+  "TotalPassed": 485,
+  "BuiltAt": "2026-10-28T11:58:22.8547670+07:00",
+  "NativeGeometry": "Dimension-driven revolutions, extrusions and blends",
+  "RuntimeAssembly": "BinhMinh.Parametric2024.dll"
+}

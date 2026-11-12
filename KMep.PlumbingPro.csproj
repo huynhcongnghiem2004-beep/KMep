@@ -1,0 +1,9 @@
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup><Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration><Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform><ProjectGuid>{99A889D2-2842-4314-9C2E-51FC7E9562B1}</ProjectGuid><OutputType>Library</OutputType><RootNamespace>KMep.PlumbingPro</RootNamespace><AssemblyName>KMep.PlumbingPro</AssemblyName><TargetFrameworkVersion>v4.8</TargetFrameworkVersion><LangVersion>7.3</LangVersion><AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects></PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' "><DebugSymbols>true</DebugSymbols><Optimize>false</Optimize><OutputPath>bin\Debug\</OutputPath></PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' "><Optimize>true</Optimize><OutputPath>bin\Release\</OutputPath></PropertyGroup>
+  <ItemGroup><Reference Include="RevitAPI"><HintPath>$(RevitInstallDir)\RevitAPI.dll</HintPath><Private>False</Private></Reference><Reference Include="RevitAPIUI"><HintPath>$(RevitInstallDir)\RevitAPIUI.dll</HintPath><Private>False</Private></Reference><Reference Include="System"/><Reference Include="System.Core"/><Reference Include="System.Windows.Forms"/></ItemGroup>
+  <ItemGroup><Compile Include="App.cs"/><Compile Include="RouteColdWaterCommand.cs"/><Compile Include="Properties\AssemblyInfo.cs"/></ItemGroup>
+  <PropertyGroup><RevitInstallDir Condition=" '$(RevitInstallDir)' == '' ">C:\Program Files\Autodesk\Revit 2024</RevitInstallDir></PropertyGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

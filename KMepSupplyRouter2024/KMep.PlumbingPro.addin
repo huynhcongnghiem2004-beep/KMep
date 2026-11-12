@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>KMep PlumbingPro</Name>
+    <Assembly>D:\SDK_HD\KMep_PlumbingPro\KMepSupplyRouter2024\KMep.SupplyRouter2024.Final2.dll</Assembly>
+    <AddInId>182B8A1E-9045-45D9-B47C-3E619067A2A4</AddInId>
+    <FullClassName>KMep.Supply.App</FullClassName>
+    <VendorId>KMEP</VendorId>
+    <VendorDescription>KMep Supply Router 3D - Revit 2024 mm</VendorDescription>
+  </AddIn>
+</RevitAddIns>
